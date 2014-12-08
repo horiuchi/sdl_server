@@ -1,0 +1,8 @@
+{
+  "name": "SDL Server - test",
+  "description": "The SmartDeviceLink (SDL) server handles authentication, data collection, and basic configurations for SDL connected vehicles.",
+  "repository": "https://github.com/horiuchi/sdl_server",
+  "logo": "https://raw.githubusercontent.com/horiuchi/sdl_server/master/client/favicon.ico",
+  "keywords": ["node", "sdl", "fox"]
+}
+
